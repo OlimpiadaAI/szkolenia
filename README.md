@@ -23,6 +23,7 @@ Cykl wykładów ruszył w listopadzie i potrwa do stycznia. W planie jest Pytho
 | 9  | 15.01.2025 | Wstęp do NLP |
 | 10 | 23.01.2025 | Wstęp do architektury Transformer |
 | 11 | 29.01.2025 | Wstęp do dużych modeli językowych (LLM) |
+| 12 | 05.02.2025 | Zadania detekcji i segmentacji |
 
 
 ## Poprzednie edycje kursu
