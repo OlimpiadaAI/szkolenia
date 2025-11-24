@@ -15,7 +15,10 @@ Cykl wykładów ruszył w listopadzie i potrwa do lutego. W planie jest Python,
 | 1  | 25.10.2025 | Wstęp do AI i Pythona |
 | 2  | 08.11.2025 | Eksploracyjna analiza danych |
 | 3  | 15.11.2025 | Wstęp do uczenia maszynowego |
-| 4  | ... | ... |
+| 4  | 22.11.2025 | Klasyczne algorytmy ML |
+| 4  | 29.11.2025 | Modele liniowe i sieci MLP |
+| 4  | 06.12.2025 | Sieci neuronowe i CNN |
+| 4  | 13.12.2025 | ... |
 
 
 ## Poprzednie edycje kursu
