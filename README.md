@@ -16,9 +16,11 @@ Cykl wykładów ruszył w listopadzie i potrwa do lutego. W planie jest Python,
 | 2  | 08.11.2025 | Eksploracyjna analiza danych |
 | 3  | 15.11.2025 | Wstęp do uczenia maszynowego |
 | 4  | 22.11.2025 | Klasyczne algorytmy ML |
-| 4  | 29.11.2025 | Modele liniowe i sieci MLP |
-| 4  | 06.12.2025 | Sieci neuronowe i CNN |
-| 4  | 13.12.2025 | ... |
+| 5  | 29.11.2025 | Sieci MLP, regresja liniowa i gradient |
+| 6  | 06.12.2025 | Pytorch, sieci neuronowe i konwolucyjne |
+| 7  | 13.12.2025 | Wstęp do przetwarzania języka naturalnego (NLP) |
+| 8  | 10.01.2025 | Zadania detekcji i segmentacji |
+| 9  | 13.01.2025 | ... |
 
 
 ## Poprzednie edycje kursu
