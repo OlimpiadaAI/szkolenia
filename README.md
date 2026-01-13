@@ -20,7 +20,10 @@ Cykl wykładów ruszył w listopadzie i potrwa do lutego. W planie jest Python,
 | 6  | 06.12.2025 | Pytorch, sieci neuronowe i konwolucyjne |
 | 7  | 13.12.2025 | Wstęp do przetwarzania języka naturalnego (NLP) |
 | 8  | 10.01.2025 | Zadania detekcji i segmentacji |
-| 9  | 13.01.2025 | ... |
+| 9  | 17.01.2025 | Sieci rekurencyjne i dane czasowe |
+| 10 | 24.01.2025 | Wprowadzenie do architektury Transformer |
+| 11 | 31.01.2025 | Duże modele językowe (LLM) i Hugging Face |
+| ... | ... | ... |
 
 
 ## Poprzednie edycje kursu
