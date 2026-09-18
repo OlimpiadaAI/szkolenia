@@ -1,30 +1,23 @@
 # Kurs wprowadzający do Olimpiady AI
 
-Witamy w repozytorium zawierającym materiały do cyklu szkoleń dla uczniów, organizowanego przez Komitet [Olimpiady Sztucznej Inteligencji](https://oai.cs.uni.wroc.pl/).
+Witamy w repozytorium zawierającym materiały do cyklu szkoleń dla uczniów, organizowanego przez Komitet [Olimpiady Sztucznej Inteligencji](https://www.oai.edu.pl/).
 
-Kurs stanowi przygotowanie do trzeciej edycji Olimpiady i obejmuje zagadnienia z zakresu programowania w Pythonie, klasycznego uczenia maszynowego, sieci neuronowych oraz dużych modeli językowych (LLM).
+Kurs stanowi przygotowanie do czwartej edycji Olimpiady i obejmuje zagadnienia z zakresu programowania w Pythonie, klasycznego uczenia maszynowego, sieci neuronowych, wizji komputerowej oraz dużych modeli językowych (LLM).
 
 ## Plan spotkań
 
-Wszystkie zajęcia odbywają się w formule zdalnej, w soboty, w godzinach 11:00–12:40.
+Wszystkie zajęcia odbywają się w formule zdalnej, w soboty, w godzinach 10:00-12:00.
 
-Cykl wykładów ruszył w listopadzie i potrwa do lutego. W planie jest Python, klasyczny machine learning, sieci neuronowe i LLMy.
+Cykl wykładów ruszył we wrześniu. W planie jest m. in. Python, klasyczny machine learning, sieci neuronowe, wizja komputerowa i LLMy.
 
 |    | Data | Temat |
 | -- | ---- | ----- |
-| 1  | 25.10.2025 | Wstęp do AI i Pythona |
-| 2  | 08.11.2025 | Eksploracyjna analiza danych |
-| 3  | 15.11.2025 | Wstęp do uczenia maszynowego |
-| 4  | 22.11.2025 | Klasyczne algorytmy ML |
-| 5  | 29.11.2025 | Sieci MLP, regresja liniowa i gradient |
-| 6  | 06.12.2025 | Pytorch, sieci neuronowe i konwolucyjne |
-| 7  | 13.12.2025 | Wstęp do przetwarzania języka naturalnego (NLP) |
-| 8  | 10.01.2025 | Zadania detekcji i segmentacji |
-| 9  | 17.01.2025 | Sieci rekurencyjne i dane czasowe |
-| 10 | 24.01.2025 | Wprowadzenie do architektury Transformer |
-| 11 | 31.01.2025 | Duże modele językowe (LLM) i Hugging Face |
+| 1  | 12.09.2026 | Wstęp do AI i Pythona |
+| 2  | 19.09.2026 | Eksploracyjna analiza danych |
+| 3  | 26.09.2026 | Wstęp do uczenia maszynowego |
+| 4  | 03.10.2026 | Klasteryzacja i redukcja wymiarowości |
 | ... | ... | ... |
 
 
 ## Poprzednie edycje kursu
-Materiały z poprzednich edycji szkoleń można znaleźć [tutaj](https://github.com/OlimpiadaAI/szkolenia/tree/edycja1) i [tutaj](https://github.com/OlimpiadaAI/szkolenia/tree/edycja2).
+Materiały z poprzednich edycji szkoleń można znaleźć [tutaj](https://github.com/OlimpiadaAI/szkolenia/tree/edycja1), [tutaj](https://github.com/OlimpiadaAI/szkolenia/tree/edycja2), i [tutaj](https://github.com/OlimpiadaAI/szkolenia/tree/edycja3).
