@@ -20,6 +20,9 @@ Cykl wykładów ruszył we wrześniu. W planie jest m. in. Python, klasyczny ma
 | 6  | 17.10.2026 | Podstawy sieci neuronowych |
 | 7  | 24.10.2026 | CNN i computer vision |
 | 8  | 07.11.2026 | Zadania detekcji i segmentacji |
+| 9  | 14.11.2026 | Wstęp do przetwarzania języka naturalnego (NLP) |
+| 10 | 21.11.2026 | Sieci rekurencyjne |
+| 11 | 28.11.2026 | Wprowadzenie do architektury Transformer |
 | ... | ... | ... |
 
 
