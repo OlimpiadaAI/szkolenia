@@ -28,3 +28,7 @@ Cykl wykładów ruszył we wrześniu. W planie jest m. in. Python, klasyczny ma
 
 ## Poprzednie edycje kursu
 Materiały z poprzednich edycji szkoleń można znaleźć [tutaj](https://github.com/OlimpiadaAI/szkolenia/tree/edycja1), [tutaj](https://github.com/OlimpiadaAI/szkolenia/tree/edycja2), i [tutaj](https://github.com/OlimpiadaAI/szkolenia/tree/edycja3).
+
+## Licencja
+
+**Treści** udostępnione na licencji [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
